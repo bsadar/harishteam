@@ -15,6 +15,7 @@ public class Pr1 {
 		dd.manage().window().maximize();
 		dd.manage().window().maximize();
 		dd.get("http://qaplanet.in/");
+		System.out.print(dd.getTitle());
 		   System.out.print(dd.getTitle());
 
 	}
