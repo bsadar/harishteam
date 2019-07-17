@@ -6,7 +6,7 @@ public class Aray {
 		// TODO Auto-generated method stub
 		int a [];
 		a = new int[3];
-
+///sadars
 		a[0]=500;
 		a[1]=670;
 		a[2]=830;
